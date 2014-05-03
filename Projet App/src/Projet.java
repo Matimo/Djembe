@@ -30,6 +30,7 @@ public class Projet extends Projet2 {
 	static JButton button2;
 	static JButton button3;
 	static JButton button4;
+	// Matimo développe en JAVA
 
 	JMenuBar menubar;
 	JMenu fichiers_menu;
