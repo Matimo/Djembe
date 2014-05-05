@@ -31,7 +31,6 @@ public class Projet extends Projet2 {
 	JMenuItem ouvrir_image_item, quitter_item;
 	JMenu edit_menu;
 	JMenuItem new_edit_item, ouvrir_edit_item;
-	JButton button1 = new JButton;
 
 	
 
@@ -44,6 +43,7 @@ public class Projet extends Projet2 {
 		// Création de la fenêtre
 
 		JFrame frame = new JFrame();
+		JFrame frame2 = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(2000, 2000);
 
