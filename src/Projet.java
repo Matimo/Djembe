@@ -31,6 +31,7 @@ public class Projet extends Projet2 {
 	JMenuItem ouvrir_image_item, quitter_item;
 	JMenu edit_menu;
 	JMenuItem new_edit_item, ouvrir_edit_item;
+	JButton button1 = new JButton;
 
 	
 
