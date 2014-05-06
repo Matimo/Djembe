@@ -51,7 +51,8 @@ public class Projet extends Projet2 {
 		// avec style de placement des composants
 		Container contentPane = frame.getContentPane();
 		contentPane.setLayout(new FlowLayout());
-		// contentPane.setLayout(null);
+		contentPane.setLayout(null);
+		// on commente pour tester EGIT
 
 	
 
